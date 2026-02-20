@@ -1,148 +1,274 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Shozab&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20SEO%20Specialist&descAlignY=60&descSize=16&animation=fadeIn" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Front-End+Web+Developer+%F0%9F%92%BB;MERN+Stack+Learner+%F0%9F%9A%80;SEO+%26+Content+Strategist+%F0%9F%93%88;WordPress+Developer+%F0%9F%8C%90" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shozab-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shozab-se/)
-[![GitHub](https://img.shields.io/badge/GitHub-muhammad--shozab-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-shozab)
-[![Profile Views](https://komarev.com/ghpvc/?username=muhammad-shozab&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/muhammad-shozab)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```javascript
-const shozab = {
-  name:       "Muhammad Shozab",
-  university: "Air University",
-  degree:     "Software Engineering",
-  location:   "Pakistan 🇵🇰",
-  focus:      ["Front-End Development", "MERN Stack", "SEO", "WordPress"],
-  currentlyLearning: ["MongoDB", "Express.js", "React.js", "Node.js"],
-  superpower: "Bridging clean code with search-optimized content 🚀",
-  funFact:    "I write code that both humans and search engines love ❤️"
-};
-```
-
-I'm a passionate **Software Engineering student at Air University** with a strong foundation in front-end development, WordPress, and SEO. I believe well-structured code and smart content strategy go hand-in-hand to create meaningful digital experiences. Currently leveling up with the **MERN Stack** to become a complete full-stack developer.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### 🚀 Currently Learning — MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Database & Programming
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🔍 SEO & Content
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![SEO](https://img.shields.io/badge/On--Page_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Content Writing](https://img.shields.io/badge/Content_Writing-FF6B35?style=for-the-badge&logo=medium&logoColor=white)
-![Blogging](https://img.shields.io/badge/Blogging-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-shozab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-shozab&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=220&section=header&text=Muhammad%20Shozab&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=✦%20Software%20Engineer%20·%20Web%20Developer%20·%20SEO%20Specialist%20✦&descAlignY=62&descSize=15&descAlign=50&animation=fadeIn&stroke=a78bfa&strokeWidth=2" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-shozab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=12" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SMOOTH TYPING ANIMATION                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=550&height=45&lines=🎓+Software+Engineering+@+Air+University;💻+Front-End+Developer+%26+WordPress+Expert;🚀+Learning+Full-Stack+%7C+MERN+Stack;🔍+SEO+Strategist+%26+Content+Writer;🌱+Building+One+Commit+at+a+Time" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      SOCIAL LINKS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://www.linkedin.com/in/muhammad-shozab-se/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/muhammad-shozab" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
----
-
-## 🗺️ My Learning Roadmap
-
-```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025+
- │                                                          │
- ├─ ✅  HTML5 & CSS3          ├─ 🔄  React.js              │
- ├─ ✅  JavaScript            ├─ 🔄  Node.js & Express     │
- ├─ ✅  WordPress             ├─ 🔄  MongoDB               │
- ├─ ✅  SQL                   ├─ 🎯  Full-Stack Projects    │
- ├─ ✅  On/Off-Page SEO       ├─ 🎯  REST APIs             │
- ├─ ✅  C++ & OOP             └─ 🎯  Open Source Contrib.  │
- └─ ✅  Content Writing                                     │
-```
+<br/>
 
 ---
 
-## 🌟 What I Bring to the Table
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<table align="center">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
+
+<table>
 <tr>
-<td align="center" width="33%">
+<td width="55%">
 
-### 💡 Development
-Building clean, semantic, and responsive interfaces using **HTML, CSS & JavaScript**. Crafting WordPress sites optimized for performance and usability.
+🎓 &nbsp; **Student** at **Air University** — Software Engineering
+<br/><br/>
+🌍 &nbsp; Based in **Pakistan** 🇵🇰
+<br/><br/>
+💡 &nbsp; Passionate about **clean code** + **smart SEO**
+<br/><br/>
+🔭 &nbsp; Currently mastering the **MERN Stack**
+<br/><br/>
+🎯 &nbsp; Goal: Become a **Full-Stack Developer**
+<br/><br/>
+✍️ &nbsp; Love **content writing** & **blogging**
+<br/><br/>
+⚡ &nbsp; Fun fact: I make websites that both **humans and Google** love
 
 </td>
-<td align="center" width="33%">
+<td width="45%" align="center">
 
-### 🔍 SEO Expertise
-From **On-Page** to **Off-Page**, **Local** to **Technical SEO** — I understand how to make websites rank, be discovered, and deliver value.
-
-</td>
-<td align="center" width="33%">
-
-### ✍️ Content Strategy
-Writing clear, structured, and search-optimized content that resonates with users and search engines alike.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 🤝 Let's Connect!
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp; Tech Stack & Skills
 
 <div align="center">
 
-I'm always open to **collaborations**, **learning opportunities**, and **interesting conversations** about web development, SEO, or tech in general!
+<br/>
+
+**🌐 &nbsp; Front-End Development**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shozab-se/)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-shozab)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
+<br/><br/>
+
+**🚀 &nbsp; Currently Learning — MERN Stack**
 
 <br/>
 
-> *"Code is not just instructions for machines — it's a conversation with the future."*
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+<br/><br/>
+
+**🗄️ &nbsp; Programming & Database**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP%20Concepts-%23a78bfa.svg?style=for-the-badge&logo=buffer&logoColor=white)
+
+<br/><br/>
+
+**🔍 &nbsp; SEO & Content**
+
+<br/>
+
+![On-Page SEO](https://img.shields.io/badge/On--Page%20SEO-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Off-Page SEO](https://img.shields.io/badge/Off--Page%20SEO-%2334A853.svg?style=for-the-badge&logo=google&logoColor=white)
+![Local SEO](https://img.shields.io/badge/Local%20SEO-%23FBBC05.svg?style=for-the-badge&logo=googlemaps&logoColor=black)
+![Technical SEO](https://img.shields.io/badge/Technical%20SEO-%23EA4335.svg?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Content Writing](https://img.shields.io/badge/Content%20Writing-%23FF6B35.svg?style=for-the-badge&logo=medium&logoColor=white)
+![Blogging](https://img.shields.io/badge/Blogging-%23FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   WHAT I BRING                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌟 &nbsp; What I Bring to the Table
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="30%">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="60"/>
+<br/><br/>
+<b>💡 Web Development</b>
+<br/><br/>
+Crafting clean, semantic & responsive UIs with <b>HTML, CSS & JavaScript</b>. Building performant WordPress sites users love.
+</td>
+
+<td align="center" width="5%"></td>
+
+<td align="center" width="30%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60"/>
+<br/><br/>
+<b>🔍 SEO Mastery</b>
+<br/><br/>
+End-to-end SEO — <b>On-Page, Off-Page, Local & Technical</b>. Making websites rank, get found, and deliver real value.
+</td>
+
+<td align="center" width="5%"></td>
+
+<td align="center" width="30%">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="60"/>
+<br/><br/>
+<b>✍️ Content Strategy</b>
+<br/><br/>
+Writing structured, <b>search-optimized content</b> that resonates with both readers and search engines simultaneously.
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   LEARNING ROADMAP                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🗺️ &nbsp; My Learning Roadmap
+
+<br/>
+
+<div align="center">
+
+| ✅ Mastered | 🔄 In Progress | 🎯 Next Goals |
+|:-----------:|:--------------:|:-------------:|
+| HTML5 & CSS3 | React.js | REST APIs |
+| JavaScript | Node.js & Express | Full-Stack Projects |
+| WordPress | MongoDB | Open Source |
+| On/Off-Page SEO | MERN Integration | Cloud Deployment |
+| C++ & OOP | Back-End Logic | DevOps Basics |
+| SQL | API Design | Portfolio Apps |
+| Content Writing | GitHub Projects | Freelancing |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ACTIVITY GRAPH                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📈 &nbsp; Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-shozab&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=a78bfa" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🤝 &nbsp; Let's Connect & Collaborate
+
+<div align="center">
+
+<br/>
+
+*I'm always open to collaborations, learning opportunities, and exciting conversations about web development, SEO, or tech!*
+
+<br/>
+
+<a href="https://www.linkedin.com/in/muhammad-shozab-se/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/muhammad-shozab">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Drop%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+---
+
+<br/>
+
+> ### *" Code is poetry — write it so both machines and minds understand. "*
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/> &nbsp; <em>I love connecting with people — feel free to say hi!</em>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,30:302b63,60:1a1a4e,100:0f0c29&height=130&section=footer&animation=fadeIn" />
 
 </div>
