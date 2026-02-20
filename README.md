@@ -44,9 +44,11 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
 
-<table>
-<tr>
-<td width="55%">
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
+</div>
+
+<br/>
 
 🎓 &nbsp; **Student** at **Air University** — Software Engineering
 <br/><br/>
@@ -61,15 +63,6 @@
 ✍️ &nbsp; Love **content writing** & **blogging**
 <br/><br/>
 ⚡ &nbsp; Fun fact: I make websites that both **humans and Google** love
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
