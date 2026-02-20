@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=220&section=header&text=Muhammad%20Shozab&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=✦%20Software%20Engineer%20·%20Web%20Developer%20·%20SEO%20Specialist%20✦&descAlignY=62&descSize=15&descAlign=50&animation=fadeIn&stroke=a78bfa&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=220&section=header&text=Muhammad%20Shozab&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Software%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20SEO%20Specialist&descAlignY=62&descSize=15&descAlign=50&animation=typewriter&stroke=a78bfa&strokeWidth=2" />
 
 <br/>
 
@@ -12,9 +12,7 @@
 <!--                    SMOOTH TYPING ANIMATION                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=550&height=45&lines=🎓+Software+Engineering+@+Air+University;💻+Front-End+Developer+%26+WordPress+Expert;🚀+Learning+Full-Stack+%7C+MERN+Stack;🔍+SEO+Strategist+%26+Content+Writer;🌱+Building+One+Commit+at+a+Time" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+%40+Air+University+%F0%9F%8E%93;Front-End+Developer+%26+WordPress+Expert+%F0%9F%92%BB;Learning+Full-Stack+%7C+MERN+Stack+%F0%9F%9A%80;SEO+Strategist+%26+Content+Writer+%F0%9F%94%8D;Building+One+Commit+at+a+Time+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/><br/>
 
